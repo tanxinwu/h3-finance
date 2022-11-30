@@ -1,0 +1,8 @@
+[0.010s][info][gc,heap] Heap region size: 1M
+[0.018s][info][gc     ] Using G1
+[0.018s][info][gc,heap,coops] Heap address: 0x0000000702a00000, size: 4054 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+[0.175s][info][gc,heap,exit ] Heap
+[0.175s][info][gc,heap,exit ]  garbage-first heap   total 260096K, used 14336K [0x0000000702a00000, 0x0000000800000000)
+[0.175s][info][gc,heap,exit ]   region size 1024K, 7 young (7168K), 0 survivors (0K)
+[0.175s][info][gc,heap,exit ]  Metaspace       used 6348K, capacity 6379K, committed 6528K, reserved 1056768K
+[0.175s][info][gc,heap,exit ]   class space    used 553K, capacity 570K, committed 640K, reserved 1048576K
